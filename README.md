@@ -11,4 +11,4 @@
 
 #### _Any musicians?_
 
-Check out my dad's website, [Glenn Cronkhite Custom Cases](https://glenncronkhite.com), or [Torpedobags](https://torpedobags.com){:target='_blank'}
+Check out my dad's website, [Glenn Cronkhite Custom Cases](https://glenncronkhite.com), or [Torpedobags{:target='_blank'}](https://torpedobags.com)
