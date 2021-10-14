@@ -9,6 +9,6 @@
 - 📫 How to reach me: krieselo@students.grovesacademy.org
 - ⚡ Fun fact: [Ruffle!](ruffle.rs) is the new flash player! I encourage anyone who likes a good browser game to get the extension (or desktop app) at their official website: [](https://ruffle.rs)
 
-#### _Any instrument players?_
+#### _Any musicians?_
 
-Check out my dad's website, [Glenn Cronkhite Custom Cases](https://glenncronkhite.com), or [Torpedo Bags](https://torpedobags.com)
+Check out my dad's website, [Glenn Cronkhite Custom Cases](https://glenncronkhite.com), or <a href="https://torpedobags.com" target="_blank">Torpedobags</a>
