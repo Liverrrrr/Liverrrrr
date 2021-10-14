@@ -7,8 +7,8 @@
 - 🤔 Looking for help with:
 - 💬 Ask me about: Things I know - like networking and the IP Suite
 - 📫 How to reach me: krieselo@students.grovesacademy.org
-- ⚡ Fun fact: [Ruffle!](ruffle.rs) is the new flash player! I encourage anyone who likes a good browser game to get the extension (or desktop app) at their official website: [](https://ruffle.rs)
+- ⚡ Fun fact: [Ruffle!](https://ruffle.rs) is the new flash player! I encourage anyone who likes a good browser game to get the extension (or desktop app) at their official website: [](https://ruffle.rs#downloads)
 
 #### _Any musicians?_
 
-Check out my dad's website, [Glenn Cronkhite Custom Cases](https://glenncronkhite.com), or <a href="https://torpedobags.com" target="_blank">Torpedobags</a>
+Check out my dad's website, [Glenn Cronkhite Custom Cases](https://glenncronkhite.com), or [Torpedobags](https://torpedobags.com){:target="_blank"}
