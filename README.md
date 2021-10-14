@@ -7,7 +7,7 @@
 - 🤔 Looking for help with: Any Ubuntu Server advice? I have one setup in my basement and it's always acting weird.
 - 💬 Ask me about: Things I know - like network computing/IP Suite
 - 📫 How to reach me: krieselo@students.grovesacademy.org
-- ⚡ Fun fact: [Ruffle!](https://ruffle.rs) is the new flash player! I encourage anyone who likes a good browser game to get the extension (or desktop app) at their official website: [](https://ruffle.rs#downloads)
+- ⚡ Fun fact: [Ruffle!](https://ruffle.rs) is the new flash player! I encourage anyone who likes a good browser game to get the extension (or desktop app) at their official website: (https://ruffle.rs#downloads)
 
 #### _Any musicians?_
 
